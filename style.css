@@ -89,7 +89,7 @@ nav a:hover {
 
 /* ---------- HERO SECTION ---------- */
 .hero {
-    background: linear-gradient(to right, var(--azul-primario), var(--azul-claro));
+    background: linear-gradient(to right, var(--cinza-azul), var(--azul-primario));
     color: var(--branco);
     text-align: center;
     padding: 9rem 2rem 6rem;
