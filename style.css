@@ -55,10 +55,9 @@ header .container {
 }
 
 .logo img {
-    max-height: 100px;
+    max-height: 125px;
     width: auto;
     cursor: pointer;
-    transition: transform 0.3s ease;
 }
 
 .logo img:hover {
